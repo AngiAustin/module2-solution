@@ -1,8 +1,12 @@
 
 
 p {
- color:green;
+ color: #003300;
  background-color: #FFFFCC
+}
+
+h1 {
+ color: #CC9900;
 }
 
  .row {
