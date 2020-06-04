@@ -1,6 +1,6 @@
 
 
-
+<style>
 p {
  color:green;
 }
@@ -9,8 +9,39 @@ p {
   width: 100%;
   }
   
-  @media (min-width: 992px)
+@media (min-width: 992px) {
+    #p1 {
+ width: 33%;    
+}
+    #p2 {
+ width: 33%;    
+}
+   #p3 {
+ width: 33%;    
+}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    #p1 {
+ width: 33%;    
+}
+    #p2 {
+ width: 33%;    
+}
+   #p3 {
+ width: 33%;    
+}
+}
     
-  @media (min-width: 768px) and (max-width: 991px)
-    
-  @media (max-width: 767px)
+  @media (max-width: 767px) {
+    #p1 {
+ width: 33%;    
+}
+    #p2 {
+ width: 33%;    
+}
+   #p3 {
+ width: 33%;    
+}
+}
+</style>
