@@ -1,8 +1,8 @@
 
 
-<style>
 p {
  color:green;
+ background-color: #FFFFCC
 }
 
  .row {
@@ -44,4 +44,3 @@ p {
  width: 33%;    
 }
 }
-</style>
