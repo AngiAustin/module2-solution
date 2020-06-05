@@ -1,26 +1,14 @@
+@media (min-width: 992px) {
+.row {
+  width: 100%;
+  }
+
+h1 {
+ font-size: 125%;
+ color: #CC9900;
+}
+
 div {
- position: relative;
- border: 1px solid #000000;
- box-sizing: border-box;
- padding: 10px;
- margin-top: 10px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 10px;
-}
-
-#container1 {
- position: relative;
- border: 1px solid #000000;
- box-sizing: border-box;
- padding: 10px;
- margin-top: 10px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 10px;
-}
-
-#container2 {
  position: relative;
  border: 1px solid #000000;
  box-sizing: border-box;
@@ -36,6 +24,11 @@ p {
  position: relative;
  float: left;
  border: 1px solid #000000;
+ padding: 10px;
+ margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
  font-family: serif 16pt;
  color: #000000;
  background-color: #FFE7C6;
@@ -46,6 +39,11 @@ p {
  float: right;
  position: relative;
  border: 1px solid #000000;
+ padding: 10px;
+ margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
  font-family: serif 16pt;
  color: #000000;
  background-color: #FFE7C6;
@@ -56,73 +54,148 @@ p {
  float: left;
  position: relative;
  border: 1px solid #000000;
+ padding: 10px;
+ margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
  font-family: serif 16pt;
  color: #000000;
  background-color: #FFE7C6;
 }
 
+}
 
+@media (min-width: 768px) and (max-width: 991px) {
+.row {
+  width: 100%;
+  }
 
 h1 {
  font-size: 125%;
  color: #CC9900;
 }
 
- .row {
-  width: 100%;
-  }
-  
-@media (min-width: 992px) 
-{
- .col-lg-1, .col-lg-2, .col-lg-3;
- float: left;
- background-color: grey;
- border: 1px solid black;
-}
-{
-  .col-lg-1 {
- width: 33%;    
-}
-   .col-lg-2 {
- width: 33%;    
-}
-   .col-lg-3 {
- width: 33%;    
-}
+div {
+ position: relative;
+ border: 1px solid #000000;
+ box-sizing: border-box;
+ padding: 10px;
+ margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
 }
 
-@media (min-width: 768px) and (max-width: 991px) {
- .col-lg-1, .col-lg-2, .col-lg-3;
+p {
+ width: 50%;
+ position: relative;
  float: left;
- background-color: grey;
- border: 1px solid black;
+ border: 1px solid #000000;
+ padding: 10px;
+ margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+ font-family: serif 16pt;
+ color: #000000;
+ background-color: #FFE7C6;
 }
-{
-    .col-lg-1 {
- width: 50%;    
+
+#p1 {
+  width: 50%;
+ float: right;
+ position: relative;
+ border: 1px solid #000000;
+ padding: 10px;
+ margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+ font-family: serif 16pt;
+ color: #000000;
+ background-color: #FFE7C6;
 }
-    .col-lg-2 {
- width: 50%;    
-}
-   .col-lg-3 {
- width: 100%;    
-}
-}
-    
-  @media (max-width: 767px) {
-   .col-lg-1, .col-lg-2, .col-lg-3;
+
+#p2 {
+ width: 100%;
  float: left;
-   background-color: grey;
- border: 1px solid black;
+ position: relative;
+ border: 1px solid #000000;
+ padding: 10px;
+ margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+ font-family: serif 16pt;
+ color: #000000;
+ background-color: #FFE7C6;
+} 
 }
-  {
-    .col-lg-1 {
- width: 100%;    
+ 
+@media (max-width: 767px) {
+.row {
+  width: 100%;
+  }
+
+h1 {
+ font-size: 125%;
+ color: #CC9900;
 }
-    .col-lg-2 {
- width: 100%;    
+
+div {
+ position: relative;
+ border: 1px solid #000000;
+ box-sizing: border-box;
+ padding: 10px;
+ margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
 }
-   .col-lg-3 {
- width: 100%;    
+
+p {
+ width: 100%;
+ position: relative;
+ float: left;
+ border: 1px solid #000000;
+ padding: 10px;
+ margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+ font-family: serif 16pt;
+ color: #000000;
+ background-color: #FFE7C6;
+}
+
+#p1 {
+  width: 100%;
+ float: right;
+ position: relative;
+ border: 1px solid #000000;
+ padding: 10px;
+ margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+ font-family: serif 16pt;
+ color: #000000;
+ background-color: #FFE7C6;
+}
+
+#p2 {
+ width: 100%;
+ float: left;
+ position: relative;
+ border: 1px solid #000000;
+ padding: 10px;
+ margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+ font-family: serif 16pt;
+ color: #000000;
+ background-color: #FFE7C6;
 }
 }
