@@ -10,7 +10,7 @@ div {
   margin-left: 10px;
 }
 
-div#container1 {
+#container1 {
  width: 33%
  position: relative;
  border: 1px solid #000000;
@@ -22,7 +22,7 @@ div#container1 {
   margin-left: 10px;
 }
 
-div#container2 {
+#container2 {
  width: 33%
  position: relative;
  border: 1px solid #000000;
