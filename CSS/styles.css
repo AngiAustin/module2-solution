@@ -32,7 +32,8 @@ div {
 }
 
 p {
-  width: 33%;
+ width: 33%;
+ position: relative;
  border: 1px solid #000000;
  font-family: serif 16pt;
  color: #000000;
@@ -41,6 +42,7 @@ p {
 
 #p1 {
   width: 33%;
+ position: absolute;
  border: 1px solid #000000;
  font-family: serif 16pt;
  color: #000000;
@@ -48,8 +50,9 @@ p {
 }
 
 #p2 {
- border: 1px solid #000000;
  width: 33%;
+ position: absolute;
+ border: 1px solid #000000;
  font-family: serif 16pt;
  color: #000000;
  background-color: #FFE7C6;
