@@ -1,4 +1,4 @@
-div#container {
+div {
  width: 33%
  position: relative;
  border: 1px solid #000000;
@@ -14,18 +14,6 @@ p {
  font-family: serif 16pt;
  color: #000000;
  background-color: #FFE7C6;
-}
-
-p2 {
- font-family: serif 16pt;
- color: #000000;
- background-color: #C6EFF7;
-}
-
-p3 {
- font-family: serif 16pt;
- color: #000000;
- background-color: #DEF3BD;
 }
 
 h1 {
