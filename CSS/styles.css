@@ -43,7 +43,7 @@ p {
 
 #p1 {
   width: 33%;
- float: left;
+ float: right;
  position: relative;
  border: 1px solid #000000;
  font-family: serif 16pt;
