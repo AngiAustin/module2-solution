@@ -5,12 +5,6 @@ h1 {
  font-size: 125%;
  color: #CC9900;
 }
- 
- h2 {
-  align: right;
-   border: 1px solid #000000;
-   font-size: 125%;
-   background-color: gray;
 
 div {
  position: relative;
@@ -42,9 +36,6 @@ p {
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
-.row {
-  width: 100%;
-  }
 
 h1 {
  font-size: 125%;
@@ -78,9 +69,6 @@ p {
 }
  
 @media (max-width: 767px) {
-.row {
-  width: 100%;
-  }
 
 h1 {
  font-size: 125%;
