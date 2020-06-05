@@ -32,16 +32,16 @@ div {
 }
 
 p {
+  width: 33%;
  border: 1px solid #000000;
- width: 33%;
  font-family: serif 16pt;
  color: #000000;
  background-color: #FFE7C6;
 }
 
 #p1 {
+  width: 33%;
  border: 1px solid #000000;
- width: 33%;
  font-family: serif 16pt;
  color: #000000;
  background-color: #FFE7C6;
