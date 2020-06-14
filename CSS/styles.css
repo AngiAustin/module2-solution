@@ -3,6 +3,13 @@
 .row {
  width: 100%;
  }
+ 
+.title {
+ font-size: 125%;
+ border: 1px solid #000000;
+ box-sizing: border-box;
+ background-color: #333333;
+ }
 
 h1 {
  font-size: 125%;
@@ -21,14 +28,14 @@ div {
 }
 
 p {
- width: 33%;
  position: relative;
  border: 1px solid #000000;
+ width: 33%;
  padding: 10px;
  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 10px;
+ margin-bottom: 10px;
+ margin-right: 10px;
+ margin-left: 10px;
  font-family: serif 16pt;
  color: #000000;
  background-color: #FFE7C6;
