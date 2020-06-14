@@ -1,5 +1,8 @@
 @media (min-width: 992px) {
 
+.row {
+ width: 100%;
+ }
 
 h1 {
  font-size: 125%;
@@ -30,12 +33,13 @@ p {
  color: #000000;
  background-color: #FFE7C6;
 }
-
-
-
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
+ 
+ .row {
+ width: 100%;
+ }
 
 h1 {
  font-size: 125%;
@@ -70,6 +74,10 @@ p {
  
 @media (max-width: 767px) {
 
+ .row {
+ width: 100%;
+ }
+ 
 h1 {
  font-size: 125%;
  color: #CC9900;
