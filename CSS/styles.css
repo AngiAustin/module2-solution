@@ -24,11 +24,6 @@
  background-color: #C0C0C0;
  border: 1px solid #000000;
  box-sizing: border-box;
- padding: 10px;
- margin-top: 10px;
- margin-bottom: 10px;
- margin-right: 10px;
- margin-left: 10px;
  }
 
 h1 {
@@ -63,12 +58,6 @@ p {
 
 
 
-
-
-
-
-
-
 @media (min-width: 768px) and (max-width: 991px) {
  
  .col-md-1, .col-md-2, .col-md-3 {
@@ -95,11 +84,6 @@ p {
  background-color: #C0C0C0;
  border: 1px solid #000000;
  box-sizing: border-box;
- padding: 10px;
- margin-top: 10px;
- margin-bottom: 10px;
- margin-right: 10px;
- margin-left: 10px;
  }
  
 h1 {
@@ -159,11 +143,6 @@ p {
  background-color: #C0C0C0;
  border: 1px solid #000000;
  box-sizing: border-box;
- padding: 10px;
- margin-top: 10px;
- margin-bottom: 10px;
- margin-right: 10px;
- margin-left: 10px;
  }
  
 h1 {
