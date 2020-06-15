@@ -75,6 +75,7 @@ div {
 }
  
 p {
+ position: absolute;
  border: 1px solid #000000;
  width: 90%;
  font-family: serif 16pt;
