@@ -51,6 +51,7 @@
 .title {
  font-size: 125%;
  background-color: #C0C0C0;
+ align: right;
  border: 1px solid #000000;
  box-sizing: border-box;
  }
@@ -133,6 +134,7 @@ p {
  .title {
  font-size: 125%;
  background-color: #C0C0C0;
+ align: right;
  border: 1px solid #000000;
  box-sizing: border-box;
  }
@@ -215,6 +217,7 @@ p {
  .title {
  font-size: 125%;
  background-color: #C0C0C0;
+ align: right;
  border: 1px solid #000000;
  box-sizing: border-box;
  }
