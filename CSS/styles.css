@@ -50,10 +50,18 @@
  width: 100%;
  }
  
-th.title {
+.title {
+ float: right;
  font-size: 125%;
  background-color: #C0C0C0;
-    text-align: right;
+ border: 1px solid #000000;
+ }
+ 
+ 
+th.title {
+ float: right;
+ font-size: 125%;
+ background-color: #C0C0C0;
     border: 1px solid #000000;
  }
 
@@ -136,10 +144,18 @@ p {
  width: 100%;
  }
 
- th.title {
+.title {
+ float: right;
  font-size: 125%;
  background-color: #C0C0C0;
-        text-align: right;
+ border: 1px solid #000000;
+ }
+ 
+ 
+th.title {
+ float: right;
+ font-size: 125%;
+ background-color: #C0C0C0;
     border: 1px solid #000000;
  }
  
@@ -222,10 +238,18 @@ font-family: serif 16pt;
  width: 100%;
  }
  
- th.title {
+.title {
+ float: right;
  font-size: 125%;
  background-color: #C0C0C0;
-        text-align: right;
+ border: 1px solid #000000;
+ }
+ 
+ 
+th.title {
+ float: right;
+ font-size: 125%;
+ background-color: #C0C0C0;
     border: 1px solid #000000;
  }
  
