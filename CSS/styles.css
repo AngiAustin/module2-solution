@@ -47,11 +47,11 @@
   box-sizing: border-box;
  }
  
-.row {
+row {
  width: 100%;
  }
  
-.title {
+title {
  font-size: 125%;
  background-color: #C0C0C0;
     text-align: right;
