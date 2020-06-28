@@ -57,14 +57,13 @@
  border: 1px solid #000000;
  }
  
- 
-th.title {
+ h2 {
  float: right;
  font-size: 125%;
  background-color: #C0C0C0;
-    border: 1px solid #000000;
+ border: 1px solid #000000;
  }
-
+ 
 h1 {
  font-size: 125%;
  color: #CC9900;
@@ -151,13 +150,11 @@ p {
  border: 1px solid #000000;
  }
  
- 
-th.title {
+ h2 {
  float: right;
  font-size: 125%;
  background-color: #C0C0C0;
-    border: 1px solid #000000;
- }
+ border: 1px solid #000000;
  
 h1 {
  font-size: 125%;
@@ -245,13 +242,11 @@ font-family: serif 16pt;
  border: 1px solid #000000;
  }
  
- 
-th.title {
+ h2 {
  float: right;
  font-size: 125%;
  background-color: #C0C0C0;
-    border: 1px solid #000000;
- }
+ border: 1px solid #000000;
  
 h1 {
  font-size: 125%;
